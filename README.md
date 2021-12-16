@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=liman4u&color=6aa6f8) ![](https://img.shields.io/github/followers/liman4u?style=social)![](https://img.shields.io/github/stars/liman4u?style=social)[![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/llabaran) <br/>
+![](https://komarev.com/ghpvc/?username=liman4u&color=6aa6f8) ![](https://img.shields.io/github/followers/liman4u?style=social)[![](https://img.shields.io/badge/-Follow-black?style=social&logo=Linkedin)](https://www.linkedin.com/in/llabaran) <br/>
 
 I am a software developer with over eight(8) years of experience, currently working at [Hellofresh](https://hellofresh.com/).
 I mainly code in Python now, but in the past i also did a lot with Java, Php, React and so many other modern web frameworks. I am always learning.
