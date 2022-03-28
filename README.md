@@ -36,7 +36,7 @@ More about education in my [LinkedIn](https://www.linkedin.com/in/llabaran/).
   - Flask
   - FastAPI
   - AIOHttp
-  - Djano
+  - Django
   - React
   - Vue
   - AWS Services
