@@ -6,7 +6,7 @@ I am a software developer with over ten(10) years of experience, currently worki
 I mainly code in `Python` and `Go` now, but in the past i also did a lot with `Java` `Php` `Javascript` and so many other modern web frameworks. I am always learning.
 
 ### Github Stats ⭐
-![Liman's Github stats](https://github-readme-stats.vercel.app/api?username=liman4u&show_icons=true&hide=stars,contribs&line_height=27&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=liman4u&show_icons=true)
+[![Liman's Github stats]](https://github-readme-stats.vercel.app/api?username=liman4u&show_icons=true&hide=stars,contribs&line_height=27&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=liman4u&show_icons=true)
 
 <details>
 <summary>
